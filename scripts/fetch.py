@@ -88,41 +88,46 @@ def fetch_note_stats():
     }
     return [summary] + top
 
-# ---------- note: 注目記事（話題の記事） ----------
+# ---------- note: 注目記事（自分のテーマで人気記事を検索） ----------
 def fetch_note_featured():
-    url = "https://note.com/api/v2/notes"
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-    r.raise_for_status()
-    data = r.json().get("data", {})
-    notes = data.get("notes") or data.get("contents") or []
-    items = []
-    for n in notes[:10]:
-        items.append({
-            "title": n.get("name", "(無題)"),
-            "link":  n.get("noteUrl") or "https://note.com/",
-            "date":  (n.get("publishAt") or "")[:10],
-        })
-    return items
+    items, seen = [], set()
+    for kw in ["AI", "プロジェクトマネジメント"]:
+        url = (f"https://note.com/api/v3/searches"
+               f"?context=note&q={kw}&size=5&start=0")
+        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+        data = r.json().get("data", {})
+        # v3検索のレスポンスは notes.contents の中に入る
+        notes = (data.get("notes", {}) or {}).get("contents", [])
+        for n in notes:
+            key = n.get("key", "")
+            if key in seen:
+                continue
+            seen.add(key)
+            items.append({
+                "title": f"[{kw}] {n.get('name','(無題)')}",
+                "link":  n.get("noteUrl") or "https://note.com/",
+                "date":  (n.get("publishAt") or "")[:10],
+            })
+    return items[:10]
 
-# ---------- note: 急上昇ハッシュタグ ----------
+# ---------- note: 主要ハッシュタグの記事数 ----------
 def fetch_note_hashtags():
-    url = "https://note.com/api/v2/hashtags"
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-    r.raise_for_status()
-    data = r.json().get("data", {})
-    tags = data.get("hashtags") or data.get("contents") or []
     items = []
-    for t in tags[:10]:
-        # 構造ゆれに対応
-        h = t.get("hashtag", t)
-        name = h.get("name", "")
-        cnt = h.get("count", "")
-        nm = name.lstrip("#")
-        items.append({
-            "title": f"#{nm}" + (f"（{cnt}）" if cnt else ""),
-            "link":  f"https://note.com/hashtags/{nm}",
-            "date":  "",
-        })
+    for tag in ["AI", "生成AI", "ChatGPT", "プロジェクトマネジメント", "仕事"]:
+        try:
+            url = f"https://note.com/api/v2/hashtags/{tag}"
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            d = r.json().get("data", {})
+            cnt = d.get("count", "")
+            items.append({
+                "title": f"#{tag}" + (f"（{cnt:,}記事）" if isinstance(cnt, int) else ""),
+                "link":  f"https://note.com/hashtags/{tag}",
+                "date":  "",
+            })
+        except Exception:
+            continue
     return items
 
 # ---------- 乃木坂46: ブログ（取得できる唯一の自動枠） ----------
