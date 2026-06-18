@@ -1,0 +1,75 @@
+{
+  "note_articles": [],
+  "note_paid": [],
+  "nogi_news": [
+    {
+      "title": "ニュース",
+      "link": "https://www.nogizaka46.com/s/n46/news/list?ima=1806&dy=202606",
+      "date": ""
+    },
+    {
+      "title": "スケジュール",
+      "link": "https://www.nogizaka46.com/s/n46/media/list?ima=1806&dy=202606",
+      "date": ""
+    },
+    {
+      "title": "メンバー",
+      "link": "https://www.nogizaka46.com/s/n46/search/artist?ima=1806",
+      "date": ""
+    },
+    {
+      "title": "ディスコグラフィー",
+      "link": "https://www.nogizaka46.com/s/n46/artist/10001/discography?ima=1806",
+      "date": ""
+    },
+    {
+      "title": "ムービー",
+      "link": "https://www.nogizaka46.com/s/n46/contents_list?ima=1806&type=140",
+      "date": ""
+    },
+    {
+      "title": "ゲームアプリ",
+      "link": "https://www.nogizaka46.com/s/n46/page/game_app?ima=1806",
+      "date": ""
+    },
+    {
+      "title": "ミート＆グリート",
+      "link": "https://www.nogizaka46.com/s/n46/live?ima=1806&ct=HANDSHAKE",
+      "date": ""
+    },
+    {
+      "title": "乃木坂工事中",
+      "link": "https://tv-aichi.co.jp/nogi-kou/",
+      "date": ""
+    },
+    {
+      "title": "CD/音楽配信/映像商品",
+      "link": "#",
+      "date": ""
+    },
+    {
+      "title": "ライブ/イベント",
+      "link": "#",
+      "date": ""
+    }
+  ],
+  "nogi_schedule": [
+    {
+      "title": "乃木坂46OFFICIAL YouTube CHANNEL",
+      "link": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
+      "date": ""
+    },
+    {
+      "title": "乃木坂配信中",
+      "link": "https://www.youtube.com/channel/UCfvohDfHt1v5N8l3BzPRsWQ",
+      "date": ""
+    }
+  ],
+  "nogi_blog": [],
+  "updated_at": "2026-06-18 20:18",
+  "_errors": {
+    "note_articles": "404 Client Error: Not Found for url: https://note.com/nmique_sable9235/rss",
+    "note_paid": "404 Client Error: Not Found for url: https://note.com/nmique_sable9235/rss",
+    "nogi_blog": "404 Client Error: Not Found for url: https://www.nogizaka46.com/s/n46/diary/blog/list"
+  }
+}
