@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""ダッシュボード用データ収集スクリプト。
-note RSS と乃木坂46公式サイトを取得し data.json を生成する。
-取得失敗しても全体が止まらないよう、各処理を try/except で隔離している。
+"""ダッシュボード用データ収集スクリプト（v2）。
+- note: 公開APIから記事取得（RSSより安定。有料/無料も判定可能）
+- 乃木坂46: /detail/ を含む本物の記事リンクだけを抽出（ナビメニュー除外）
+各処理は try/except で隔離し、失敗しても全体は止めない。
 """
-import json, datetime, traceback
+import json, datetime, traceback, re
 import requests
-import feedparser
 from bs4 import BeautifulSoup
 
-# ブラウザを装うUA。Bot対策の緩いサイトはこれで通ることが多い。
 HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                    "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -19,11 +18,9 @@ HEADERS = {
 NOTE_ID = "nmique_sable9235"
 TIMEOUT = 20
 
-result = {}   # 最終的に data.json になる辞書
-errors = {}   # どのセクションが失敗したか記録
+result, errors = {}, {}
 
 def safe(key, fn):
-    """fn() を実行し、例外が出ても全体を止めずに errors に記録する。"""
     try:
         items = fn()
         result[key] = items
@@ -34,46 +31,55 @@ def safe(key, fn):
         print(f"[NG] {key}: {e}")
         traceback.print_exc()
 
-# ---------- note: 自分の記事（RSS） ----------
-def fetch_note_articles():
-    url = f"https://note.com/{NOTE_ID}/rss"
-    # feedparser に直接URLを渡すとUAが付かないので requests で取得してから渡す
+# ---------- note: 公開APIで全記事取得 ----------
+def _note_contents():
+    url = (f"https://note.com/api/v2/creators/{NOTE_ID}"
+           f"/contents?kind=note&page=1")
     r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
-    feed = feedparser.parse(r.content)
+    data = r.json()
+    return data.get("data", {}).get("contents", [])
+
+def fetch_note_articles():
     items = []
-    for e in feed.entries[:10]:
+    for n in _note_contents()[:10]:
         items.append({
-            "title": e.get("title", "(無題)"),
-            "link":  e.get("link", "#"),
-            "date":  e.get("published", "")[:16],
+            "title": n.get("name", "(無題)"),
+            "link":  f"https://note.com/{NOTE_ID}/n/{n.get('key','')}",
+            "date":  (n.get("publishAt") or "")[:10],
         })
     return items
 
-# ---------- note: 有料コンテンツ ----------
-# RSSには有料/無料の区別が明示されないため、ここでは記事一覧を流用し
-# タイトルに含まれる記号等での簡易判定に留める（将来精緻化）。
 def fetch_note_paid():
-    arts = fetch_note_articles()
-    # 暫定: いったん全記事を表示。有料判定の改善は後続ステップで。
-    return arts[:5]
+    # price > 0 の記事だけ＝有料コンテンツ
+    items = []
+    for n in _note_contents():
+        if n.get("price", 0) and n["price"] > 0:
+            items.append({
+                "title": f"💰 {n.get('name','(無題)')}（¥{n['price']}）",
+                "link":  f"https://note.com/{NOTE_ID}/n/{n.get('key','')}",
+                "date":  (n.get("publishAt") or "")[:10],
+            })
+    return items[:10]
 
-# ---------- 乃木坂46: 汎用スクレイパ ----------
+# ---------- 乃木坂46: 本物の記事だけ抽出 ----------
 def scrape_nogi(path):
     url = f"https://www.nogizaka46.com/s/n46/{path}"
     r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
-    items = []
-    # 公式サイトのリスト項目候補を幅広く拾う（構造変更に多少強くする）
-    for a in soup.select("a[href*='/detail/'], li a, .m--scl"):
-        title = a.get_text(strip=True)
+    items, seen = [], set()
+    # 記事詳細ページへのリンク（/detail/ を含む）だけを対象にする
+    for a in soup.select("a[href*='/detail/']"):
         href = a.get("href", "")
-        if not title or len(title) < 4:
+        title = a.get_text(" ", strip=True)
+        title = re.sub(r"\s+", " ", title)[:60]
+        if not title or len(title) < 4 or href in seen:
             continue
+        seen.add(href)
         if href.startswith("/"):
             href = "https://www.nogizaka46.com" + href
-        items.append({"title": title[:60], "link": href, "date": ""})
+        items.append({"title": title, "link": href, "date": ""})
         if len(items) >= 10:
             break
     return items
