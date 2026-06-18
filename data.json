@@ -1,13 +1,91 @@
 {
-  "note_articles": [],
+  "note_articles": [
+    {
+      "title": "【Claudeで作るAI秘書 #4】優秀なのに、毎回イチから説明している ——その手間、\"一度教える\"だけで消えます",
+      "link": "https://note.com/tasty_nerine3657/n/nc56a646815ba",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "【Claudeで作るAI秘書 #3】AI秘書に「記憶」を持たせてみました—次の日、私が何も言う前に、秘書のほうから提案してきたんです",
+      "link": "https://note.com/tasty_nerine3657/n/n2eb85a8d6a89",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "【Claudeで作るAI秘書 #2】AI秘書に、初めての仕事を任せた——そして私は、AIに「確認してください」と言われた",
+      "link": "https://note.com/tasty_nerine3657/n/nefa0440064e1",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "【Claudeで作るAI秘書 #1】“初心者向け”に何度も裏切られた私が、たどり着いた—この通りにやれば、30分で必ず動くAI秘書",
+      "link": "https://note.com/tasty_nerine3657/n/nad94065b8e20",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "反対する人の多くは、本気で反対していない-100人規模で実践してきた、スケジュールの“握り方”-",
+      "link": "https://note.com/tasty_nerine3657/n/n0d78acbe5533",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "“サンドバッグ”になるのが私の仕事だった-プロジェクトマネージャーの生存戦略-",
+      "link": "https://note.com/tasty_nerine3657/n/na54c102035dc",
+      "date": "2026-06-07"
+    }
+  ],
   "note_paid": [],
   "nogi_news": [],
   "nogi_schedule": [],
-  "nogi_blog": [],
-  "updated_at": "2026-06-18 20:25",
-  "_errors": {
-    "note_articles": "404 Client Error: Not Found for url: https://note.com/api/v2/creators/nmique_sable9235/contents?kind=note&page=1",
-    "note_paid": "404 Client Error: Not Found for url: https://note.com/api/v2/creators/nmique_sable9235/contents?kind=note&page=1",
-    "nogi_blog": "404 Client Error: Not Found for url: https://www.nogizaka46.com/s/n46/diary/blog/list"
-  }
+  "nogi_blog": [
+    {
+      "title": "ボーンベッド",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104660?ima=3703&cd=MEMBER",
+      "date": "2026.06.16 20:24"
+    },
+    {
+      "title": "今年の夏も、 #hinadaniblog",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104658?ima=3703&cd=MEMBER",
+      "date": "2026.06.15 21:04"
+    },
+    {
+      "title": "Back to Fukui！",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104657?ima=3703&cd=MEMBER",
+      "date": "2026.06.15 21:03"
+    },
+    {
+      "title": "気づいたら私はもう夏だった",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104656?ima=3703&cd=MEMBER",
+      "date": "2026.06.15 20:51"
+    },
+    {
+      "title": "恐竜王国！！",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104655?ima=3703&cd=MEMBER",
+      "date": "2026.06.15 20:14"
+    },
+    {
+      "title": "綴夏",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104653?ima=3703&cd=MEMBER",
+      "date": "2026.06.13 15:04"
+    },
+    {
+      "title": "夏風",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104652?ima=3703&cd=MEMBER",
+      "date": "2026.06.13 15:02"
+    },
+    {
+      "title": "すぐ、夏がきた🍉 金川紗耶",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104651?ima=3703&cd=MEMBER",
+      "date": "2026.06.13 14:54"
+    },
+    {
+      "title": "『野球少女鷲尾』よろしくお願いします！ 川﨑桜",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104650?ima=3703&cd=MEMBER",
+      "date": "2026.06.13 14:31"
+    },
+    {
+      "title": "なんてったって夏なんだから！",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104649?ima=3703&cd=MEMBER",
+      "date": "2026.06.11 21:07"
+    }
+  ],
+  "updated_at": "2026-06-18 20:37",
+  "_errors": {}
 }
