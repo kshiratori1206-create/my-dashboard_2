@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""ダッシュボード用データ収集スクリプト（v2）。
-- note: 公開APIから記事取得（RSSより安定。有料/無料も判定可能）
-- 乃木坂46: /detail/ を含む本物の記事リンクだけを抽出（ナビメニュー除外）
-各処理は try/except で隔離し、失敗しても全体は止めない。
+"""ダッシュボード用データ収集スクリプト（v3）。
+- note: 正しいクリエイターID(tasty_nerine3657)でAPI取得
+- 乃木坂46: 正しいパスに修正＋記事抽出ロジック強化
 """
 import json, datetime, traceback, re
 import requests
@@ -15,7 +14,7 @@ HEADERS = {
                    "Chrome/124.0 Safari/537.36"),
     "Accept-Language": "ja,en;q=0.9",
 }
-NOTE_ID = "nmique_sable9235"
+NOTE_ID = "tasty_nerine3657"     # ← 正しいIDに修正
 TIMEOUT = 20
 
 result, errors = {}, {}
@@ -45,48 +44,55 @@ def fetch_note_articles():
     for n in _note_contents()[:10]:
         items.append({
             "title": n.get("name", "(無題)"),
-            "link":  f"https://note.com/{NOTE_ID}/n/{n.get('key','')}",
+            "link":  n.get("noteUrl") or f"https://note.com/{NOTE_ID}/n/{n.get('key','')}",
             "date":  (n.get("publishAt") or "")[:10],
         })
     return items
 
 def fetch_note_paid():
-    # price > 0 の記事だけ＝有料コンテンツ
     items = []
     for n in _note_contents():
-        if n.get("price", 0) and n["price"] > 0:
+        price = n.get("price", 0) or 0
+        if price > 0:
             items.append({
-                "title": f"💰 {n.get('name','(無題)')}（¥{n['price']}）",
-                "link":  f"https://note.com/{NOTE_ID}/n/{n.get('key','')}",
+                "title": f"💰 {n.get('name','(無題)')}（¥{price}）",
+                "link":  n.get("noteUrl") or f"https://note.com/{NOTE_ID}/n/{n.get('key','')}",
                 "date":  (n.get("publishAt") or "")[:10],
             })
     return items[:10]
 
-# ---------- 乃木坂46: 本物の記事だけ抽出 ----------
+# ---------- 乃木坂46: 記事抽出（強化版） ----------
 def scrape_nogi(path):
     url = f"https://www.nogizaka46.com/s/n46/{path}"
     r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     items, seen = [], set()
-    # 記事詳細ページへのリンク（/detail/ を含む）だけを対象にする
+    # /detail/ を含むリンクを記事とみなす
     for a in soup.select("a[href*='/detail/']"):
         href = a.get("href", "")
-        title = a.get_text(" ", strip=True)
-        title = re.sub(r"\s+", " ", title)[:60]
-        if not title or len(title) < 4 or href in seen:
+        # リンク内のテキスト全体を取得（タイトル＋日付が入っていることが多い）
+        txt = a.get_text(" ", strip=True)
+        txt = re.sub(r"\s+", " ", txt).strip()
+        if not txt or href in seen:
             continue
         seen.add(href)
+        # 日付パターン(2026.03.05 など)があれば分離
+        m = re.search(r"(20\d\d[./]\d\d?[./]\d\d?[\s\d:]*)", txt)
+        date = m.group(1).strip() if m else ""
+        title = txt.replace(date, "").strip(" ・-|") if date else txt
+        if not title:
+            title = txt
         if href.startswith("/"):
             href = "https://www.nogizaka46.com" + href
-        items.append({"title": title, "link": href, "date": ""})
+        items.append({"title": title[:70], "link": href, "date": date})
         if len(items) >= 10:
             break
     return items
 
 def fetch_nogi_news():     return scrape_nogi("news/list")
 def fetch_nogi_schedule(): return scrape_nogi("media/list")
-def fetch_nogi_blog():     return scrape_nogi("diary/blog/list")
+def fetch_nogi_blog():     return scrape_nogi("diary/MEMBER/list")  # ← 修正
 
 # ---------- 実行 ----------
 safe("note_articles", fetch_note_articles)
