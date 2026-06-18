@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Dashboard</title>
+<style>
+  :root { --bg:#f4f5f7; --card:#fff; --line:#e3e6ea; --accent:#2d6cdf; --sub:#6b7280; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif;
+         background:var(--bg); color:#1a1a1a; }
+  header { padding:20px; background:#fff; border-bottom:1px solid var(--line); }
+  header h1 { margin:0; font-size:18px; }
+  header .upd { font-size:12px; color:var(--sub); margin-top:4px; }
+  .grid { display:grid; gap:16px; padding:16px;
+          grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+          padding:16px; }
+  .card h2 { margin:0 0 12px; font-size:14px; display:flex; align-items:center; gap:6px; }
+  .card h2 .tag { font-size:11px; color:#fff; background:var(--accent);
+                  padding:2px 8px; border-radius:99px; }
+  .card h2 .tag.nogi { background:#7b2d8e; }
+  ul { list-style:none; margin:0; padding:0; }
+  li { padding:8px 0; border-bottom:1px solid var(--line); font-size:13px; line-height:1.5; }
+  li:last-child { border-bottom:none; }
+  a { color:inherit; text-decoration:none; }
+  a:hover { color:var(--accent); }
+  .date { font-size:11px; color:var(--sub); display:block; }
+  .empty { font-size:12px; color:var(--sub); }
+</style>
+</head>
+<body>
+<header>
+  <h1>📊 My Dashboard</h1>
+  <div class="upd" id="updated">読み込み中…</div>
+</header>
+<div class="grid" id="grid"></div>
+
+<script>
+// 表示したいセクションの定義（順番・タイトル・色）
+const SECTIONS = [
+  { key:"note_articles",  title:"note 自分の記事",   tag:"note" },
+  { key:"note_paid",      title:"note 有料コンテンツ", tag:"note" },
+  { key:"nogi_news",      title:"乃木坂46 NEWS",      tag:"nogi" },
+  { key:"nogi_schedule",  title:"乃木坂46 スケジュール", tag:"nogi" },
+  { key:"nogi_blog",      title:"乃木坂46 ブログ",     tag:"nogi" },
+];
+
+// 手動リンク集（スクレイピングしないもの＝チケット・noteダッシュボード等）
+const LINKS = [
+  { title:"note ダッシュボード（ログイン）", url:"https://note.com/sitesettings/stats" },
+  { title:"乃木坂46 チケット受付",          url:"https://www.nogizaka46.com/s/n46/" },
+];
+
+async function load() {
+  const grid = document.getElementById("grid");
+  let data = {};
+  try {
+    const res = await fetch("data.json?" + Date.now()); // キャッシュ回避
+    data = await res.json();
+    document.getElementById("updated").textContent =
+      "最終更新: " + (data.updated_at || "不明");
+  } catch (e) {
+    document.getElementById("updated").textContent = "data.json 未生成（ステップ3で作成）";
+  }
+
+  // スクレイピング系セクション
+  for (const s of SECTIONS) {
+    const items = (data[s.key] || []);
+    const lis = items.length
+      ? items.map(it => `<li><a href="${it.link}" target="_blank">${it.title}
+           <span class="date">${it.date || ""}</span></a></li>`).join("")
+      : `<li class="empty">データなし</li>`;
+    grid.insertAdjacentHTML("beforeend", `
+      <div class="card">
+        <h2>${s.title} <span class="tag ${s.tag}">${s.tag}</span></h2>
+        <ul>${lis}</ul>
+      </div>`);
+  }
+
+  // 手動リンク集
+  const linkLis = LINKS.map(l =>
+    `<li><a href="${l.url}" target="_blank">🔗 ${l.title}</a></li>`).join("");
+  grid.insertAdjacentHTML("beforeend", `
+    <div class="card">
+      <h2>クイックリンク <span class="tag">manual</span></h2>
+      <ul>${linkLis}</ul>
+    </div>`);
+}
+load();
+</script>
+</body>
+</html>
