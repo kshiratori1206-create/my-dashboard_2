@@ -1,6 +1,11 @@
 {
   "note_articles": [
     {
+      "title": "課題やタスクを進める方法― 原因は「やる気」でも「段取り」でもない",
+      "link": "https://note.com/tasty_nerine3657/n/n0cce238c11da",
+      "date": "2026-06-26"
+    },
+    {
       "title": " トラブル発生　それでも公開日を落とさない人の備え方 ——想定外は起きる前提でーー事前に妄想し、すぐに周りを巻き込む——",
       "link": "https://note.com/tasty_nerine3657/n/n2c7dc157c8d2",
       "date": "2026-06-20"
@@ -44,11 +49,6 @@
       "title": "「休む＝何もしない」は最大の損。あなたの休日、損益計算したら赤字でした",
       "link": "https://note.com/tasty_nerine3657/n/n15f7162335d1",
       "date": "2026-06-03"
-    },
-    {
-      "title": "今日から変わる｜AI動画プロンプトの\"言語化\"完全攻略ガイド【事例集付き】",
-      "link": "https://note.com/tasty_nerine3657/n/n45e8bdd996db",
-      "date": "2026-05-29"
     }
   ],
   "note_paid": [
@@ -60,7 +60,7 @@
   ],
   "note_stats": [
     {
-      "title": "📊 公開13記事 / 総スキ 52 / 総コメント 1",
+      "title": "📊 公開14記事 / 総スキ 54 / 総コメント 1",
       "link": "https://note.com/sitesettings/stats",
       "date": ""
     },
@@ -120,57 +120,57 @@
   ],
   "nogi_blog": [
     {
+      "title": "フォルテシモ",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104674?ima=1548&cd=MEMBER",
+      "date": "2026.06.26 21:30"
+    },
+    {
       "title": "なつじかん",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104673?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104673?ima=1548&cd=MEMBER",
       "date": "2026.06.26 19:46"
     },
     {
       "title": "君ばかり 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104672?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104672?ima=1548&cd=MEMBER",
       "date": "2026.06.25 16:01"
     },
     {
       "title": "皆さまへ。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104671?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104671?ima=1548&cd=MEMBER",
       "date": "2026.06.24 09:00"
     },
     {
       "title": "「アップトゥボーイ」さん 本日発売です。 #アップトゥボーイ #岡本姫奈 #hinadaniblog",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104670?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104670?ima=1548&cd=MEMBER",
       "date": "2026.06.23 21:01"
     },
     {
       "title": "大きく手を振るね",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104669?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104669?ima=1548&cd=MEMBER",
       "date": "2026.06.22 22:19"
     },
     {
       "title": "夏だからやっちゃお！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104667?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104667?ima=1548&cd=MEMBER",
       "date": "2026.06.21 21:52"
     },
     {
       "title": "乃木坂の夏、開幕！！！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104668?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104668?ima=1548&cd=MEMBER",
       "date": "2026.06.21 21:34"
     },
     {
       "title": "もっと知りたい、この夏",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104666?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104666?ima=1548&cd=MEMBER",
       "date": "2026.06.20 17:32"
     },
     {
       "title": "不思議な味覚",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104665?ima=4850&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104665?ima=1548&cd=MEMBER",
       "date": "2026.06.19 18:35"
-    },
-    {
-      "title": "夏の女の子なんて皆好きだろう",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104664?ima=4850&cd=MEMBER",
-      "date": "2026.06.19 16:32"
     }
   ],
-  "updated_at": "2026-06-26 20:48",
+  "updated_at": "2026-06-27 08:15",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
