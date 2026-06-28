@@ -120,57 +120,57 @@
   ],
   "nogi_blog": [
     {
+      "title": "今の私。",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104680?ima=1211&cd=MEMBER",
+      "date": "2026.06.28 21:31"
+    },
+    {
+      "title": "是非に及ばずMVが公開されました！",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104679?ima=1211&cd=MEMBER",
+      "date": "2026.06.28 21:09"
+    },
+    {
       "title": "是非に及ばず",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104678?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104678?ima=1211&cd=MEMBER",
       "date": "2026.06.28 17:47"
     },
     {
       "title": "『是非に及ばず』🤘🏻🎸⚡︎",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104677?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104677?ima=1211&cd=MEMBER",
       "date": "2026.06.28 14:12"
     },
     {
       "title": "19歳",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104676?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104676?ima=1211&cd=MEMBER",
       "date": "2026.06.27 21:50"
     },
     {
       "title": "夏と定義と定義域と",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104675?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104675?ima=1211&cd=MEMBER",
       "date": "2026.06.27 17:18"
     },
     {
       "title": "フォルテシモ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104674?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104674?ima=1211&cd=MEMBER",
       "date": "2026.06.26 21:30"
     },
     {
       "title": "なつじかん",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104673?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104673?ima=1211&cd=MEMBER",
       "date": "2026.06.26 19:46"
     },
     {
       "title": "君ばかり 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104672?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104672?ima=1211&cd=MEMBER",
       "date": "2026.06.25 16:01"
     },
     {
       "title": "皆さまへ。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104671?ima=1312&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104671?ima=1211&cd=MEMBER",
       "date": "2026.06.24 09:00"
-    },
-    {
-      "title": "「アップトゥボーイ」さん 本日発売です。 #アップトゥボーイ #岡本姫奈 #hinadaniblog",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104670?ima=1312&cd=MEMBER",
-      "date": "2026.06.23 21:01"
-    },
-    {
-      "title": "大きく手を振るね",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104669?ima=1312&cd=MEMBER",
-      "date": "2026.06.22 22:19"
     }
   ],
-  "updated_at": "2026-06-28 20:13",
+  "updated_at": "2026-06-29 08:12",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
