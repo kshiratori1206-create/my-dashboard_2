@@ -1,177 +1,66 @@
 {
-  "note_articles": [
-    {
-      "title": "担当者が困っているのは「誰に聞けばいいか分からない」だったー課題／タスクの進め方ー",
-      "link": "https://note.com/tasty_nerine3657/n/n0cce238c11da",
-      "date": "2026-06-26"
-    },
-    {
-      "title": " トラブル発生　それでも公開日を落とさない人の備え方 ——想定外は起きる前提でーー事前に妄想し、すぐに周りを巻き込む——",
-      "link": "https://note.com/tasty_nerine3657/n/n2c7dc157c8d2",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "【Claudeで作るAI秘書 #5】AI秘書を、ついに「外の世界」とつなぎました—“調べてまとめる”を任せたら、AIが「ここは分かりません」と言ってきた",
-      "link": "https://note.com/tasty_nerine3657/n/n4e8ba9ed2d22",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "【Claudeで作るAI秘書 #4】優秀なのに、毎回イチから説明している ——その手間、\"一度教える\"だけで消えます",
-      "link": "https://note.com/tasty_nerine3657/n/nc56a646815ba",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "【Claudeで作るAI秘書 #3】AI秘書に「記憶」を持たせてみました—次の日、私が何も言う前に、秘書のほうから提案してきたんです",
-      "link": "https://note.com/tasty_nerine3657/n/n2eb85a8d6a89",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "【Claudeで作るAI秘書 #2】AI秘書に、初めての仕事を任せた——そして私は、AIに「確認してください」と言われた",
-      "link": "https://note.com/tasty_nerine3657/n/nefa0440064e1",
-      "date": "2026-06-10"
-    },
-    {
-      "title": "【Claudeで作るAI秘書 #1】“初心者向け”に何度も裏切られた私が、たどり着いた—この通りにやれば、30分で必ず動くAI秘書",
-      "link": "https://note.com/tasty_nerine3657/n/nad94065b8e20",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "一斉合意が無理なら、「背負う・個別折衝・誠意」で握っていく",
-      "link": "https://note.com/tasty_nerine3657/n/n0d78acbe5533",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "自分のメンタルをコントロールしながら「抵抗」をさばいていく",
-      "link": "https://note.com/tasty_nerine3657/n/na54c102035dc",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "「休む＝何もしない」は最大の損。あなたの休日、損益計算したら赤字でした",
-      "link": "https://note.com/tasty_nerine3657/n/n15f7162335d1",
-      "date": "2026-06-03"
-    }
-  ],
-  "note_paid": [
-    {
-      "title": "💰 「休む＝何もしない」は最大の損。あなたの休日、損益計算したら赤字でした（¥500）",
-      "link": "https://note.com/tasty_nerine3657/n/n15f7162335d1",
-      "date": "2026-06-03"
-    }
-  ],
-  "note_stats": [
-    {
-      "title": "📊 公開14記事 / 総スキ 54 / 総コメント 1",
-      "link": "https://note.com/sitesettings/stats",
-      "date": ""
-    },
-    {
-      "title": "♥12 …  トラブル発生　それでも公開日を落とさない人の備え方 ——想定外は起きる前提でーー事前に妄想し、すぐに周りを巻き込む——",
-      "link": "https://note.com/tasty_nerine3657/n/n2c7dc157c8d2",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "♥7 … 今日から変わる｜AI動画プロンプトの\"言語化\"完全攻略ガイド【事例集付き】",
-      "link": "https://note.com/tasty_nerine3657/n/n45e8bdd996db",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "♥4 … 【Claudeで作るAI秘書 #3】AI秘書に「記憶」を持たせてみました—次の日、私が何も言う前に、秘書のほうから提案してきたんです",
-      "link": "https://note.com/tasty_nerine3657/n/n2eb85a8d6a89",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "♥4 … 一斉合意が無理なら、「背負う・個別折衝・誠意」で握っていく",
-      "link": "https://note.com/tasty_nerine3657/n/n0d78acbe5533",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "♥4 … 自分のメンタルをコントロールしながら「抵抗」をさばいていく",
-      "link": "https://note.com/tasty_nerine3657/n/na54c102035dc",
-      "date": "2026-06-07"
-    }
-  ],
+  "note_articles": [],
+  "note_paid": [],
+  "note_stats": {},
   "note_featured": [],
-  "note_hashtags": [
-    {
-      "title": "#AI（761,528記事）",
-      "link": "https://note.com/hashtags/AI",
-      "date": ""
-    },
-    {
-      "title": "#生成AI（394,155記事）",
-      "link": "https://note.com/hashtags/生成AI",
-      "date": ""
-    },
-    {
-      "title": "#ChatGPT（424,367記事）",
-      "link": "https://note.com/hashtags/ChatGPT",
-      "date": ""
-    },
-    {
-      "title": "#プロジェクトマネジメント（17,008記事）",
-      "link": "https://note.com/hashtags/プロジェクトマネジメント",
-      "date": ""
-    },
-    {
-      "title": "#仕事（995,064記事）",
-      "link": "https://note.com/hashtags/仕事",
-      "date": ""
-    }
-  ],
+  "note_hashtags": [],
   "nogi_blog": [
     {
+      "title": "是非是非是非",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104681?ima=2229&cd=MEMBER",
+      "date": "2026.06.29 16:34"
+    },
+    {
       "title": "今の私。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104680?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104680?ima=2229&cd=MEMBER",
       "date": "2026.06.28 21:31"
     },
     {
       "title": "是非に及ばずMVが公開されました！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104679?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104679?ima=2229&cd=MEMBER",
       "date": "2026.06.28 21:09"
     },
     {
       "title": "是非に及ばず",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104678?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104678?ima=2229&cd=MEMBER",
       "date": "2026.06.28 17:47"
     },
     {
       "title": "『是非に及ばず』🤘🏻🎸⚡︎",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104677?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104677?ima=2229&cd=MEMBER",
       "date": "2026.06.28 14:12"
     },
     {
       "title": "19歳",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104676?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104676?ima=2229&cd=MEMBER",
       "date": "2026.06.27 21:50"
     },
     {
       "title": "夏と定義と定義域と",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104675?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104675?ima=2229&cd=MEMBER",
       "date": "2026.06.27 17:18"
     },
     {
       "title": "フォルテシモ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104674?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104674?ima=2229&cd=MEMBER",
       "date": "2026.06.26 21:30"
     },
     {
       "title": "なつじかん",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104673?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104673?ima=2229&cd=MEMBER",
       "date": "2026.06.26 19:46"
     },
     {
       "title": "君ばかり 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104672?ima=1211&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104672?ima=2229&cd=MEMBER",
       "date": "2026.06.25 16:01"
-    },
-    {
-      "title": "皆さまへ。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104671?ima=1211&cd=MEMBER",
-      "date": "2026.06.24 09:00"
     }
   ],
-  "updated_at": "2026-06-29 08:12",
+  "updated_at": "2026-06-29 17:22",
   "_errors": {
+    "note_articles": "403 Client Error: Forbidden for url: https://note.com/api/v2/creators/tasty_nerine3657/contents?kind=note&page=1",
+    "note_paid": "403 Client Error: Forbidden for url: https://note.com/api/v2/creators/tasty_nerine3657/contents?kind=note&page=1",
+    "note_stats": "403 Client Error: Forbidden for url: https://note.com/api/v2/creators/tasty_nerine3657/contents?kind=note&page=1",
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
 }
