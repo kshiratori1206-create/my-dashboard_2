@@ -65,7 +65,7 @@
   ],
   "note_stats": [
     {
-      "title": "📊 公開14記事 / 総スキ 56 / 総コメント 1",
+      "title": "📊 公開14記事 / 総スキ 55 / 総コメント 1",
       "link": "https://note.com/sitesettings/stats",
       "date": ""
     },
@@ -85,13 +85,13 @@
       "date": "2026-06-26"
     },
     {
-      "title": "♥4 … 【Claudeで作るAI秘書 #3】AI秘書に「記憶」を持たせてみました—次の日、私が何も言う前に、秘書のほうから提案してきたんです",
-      "link": "https://note.com/tasty_nerine3657/n/n2eb85a8d6a89",
-      "date": "2026-06-15"
-    },
-    {
       "title": "♥4 … 一斉合意が無理なら、「背負う・個別折衝・誠意」で握っていく",
       "link": "https://note.com/tasty_nerine3657/n/n0d78acbe5533",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "♥4 … 自分のメンタルをコントロールしながら「抵抗」をさばいていく",
+      "link": "https://note.com/tasty_nerine3657/n/na54c102035dc",
       "date": "2026-06-07"
     }
   ],
@@ -126,56 +126,56 @@
   "nogi_blog": [
     {
       "title": "めんこい思い出",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104702?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104702?ima=1500&cd=MEMBER",
       "date": "2026.07.06 20:29"
     },
     {
       "title": "命の色 #りおたんの満開ブログ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104701?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104701?ima=1500&cd=MEMBER",
       "date": "2026.07.05 09:27"
     },
     {
       "title": "この季節",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104700?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104700?ima=1500&cd=MEMBER",
       "date": "2026.07.04 16:27"
     },
     {
       "title": "乃木坂46が北海道に来たよ〜〜！！ 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104699?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104699?ima=1500&cd=MEMBER",
       "date": "2026.07.04 14:03"
     },
     {
       "title": "愛情ぺろり",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104698?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104698?ima=1500&cd=MEMBER",
       "date": "2026.07.03 18:45"
     },
     {
       "title": "梅雨時ではありますが…",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104697?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104697?ima=1500&cd=MEMBER",
       "date": "2026.07.02 19:30"
     },
     {
       "title": "終わらないで、永遠に",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104696?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104696?ima=1500&cd=MEMBER",
       "date": "2026.07.02 19:12"
     },
     {
       "title": "公演を重ねて",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104694?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104694?ima=1500&cd=MEMBER",
       "date": "2026.07.02 15:16"
     },
     {
       "title": "とうもろこし焼きたい",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104693?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104693?ima=1500&cd=MEMBER",
       "date": "2026.07.02 09:04"
     },
     {
       "title": "ひなな",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104692?ima=5549&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104692?ima=1500&cd=MEMBER",
       "date": "2026.07.01 20:53"
     }
   ],
-  "updated_at": "2026-07-06 21:55",
+  "updated_at": "2026-07-07 08:15",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
