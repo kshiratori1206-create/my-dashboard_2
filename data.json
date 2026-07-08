@@ -1,6 +1,11 @@
 {
   "note_articles": [
     {
+      "title": "板挟みで働く人の「言えない本音」12選｜心の声を翻訳してみました",
+      "link": "https://note.com/tasty_nerine3657/n/n010757b01f00",
+      "date": "2026-07-08"
+    },
+    {
       "title": "時間ばかりが過ぎていくー課題・タスクを進めるための交通整理ー",
       "link": "https://note.com/tasty_nerine3657/n/n0cce238c11da",
       "date": "2026-06-26"
@@ -44,11 +49,6 @@
       "title": "自分のメンタルをコントロールしながら「抵抗」をさばいていく",
       "link": "https://note.com/tasty_nerine3657/n/na54c102035dc",
       "date": "2026-06-07"
-    },
-    {
-      "title": "「休む＝何もしない」は最大の損。あなたの休日、損益計算したら赤字でした",
-      "link": "https://note.com/tasty_nerine3657/n/n15f7162335d1",
-      "date": "2026-06-03"
     }
   ],
   "note_paid": [
@@ -65,7 +65,7 @@
   ],
   "note_stats": [
     {
-      "title": "📊 公開14記事 / 総スキ 55 / 総コメント 1",
+      "title": "📊 公開15記事 / 総スキ 56 / 総コメント 1",
       "link": "https://note.com/sitesettings/stats",
       "date": ""
     },
@@ -126,56 +126,56 @@
   "nogi_blog": [
     {
       "title": "少年よ神話になれ🌟 #七夕",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104704?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104704?ima=1026&cd=MEMBER",
       "date": "2026.07.07 21:25"
     },
     {
       "title": "教えてキミのこと",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104703?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104703?ima=1026&cd=MEMBER",
       "date": "2026.07.07 21:08"
     },
     {
       "title": "めんこい思い出",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104702?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104702?ima=1026&cd=MEMBER",
       "date": "2026.07.06 20:29"
     },
     {
       "title": "命の色 #りおたんの満開ブログ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104701?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104701?ima=1026&cd=MEMBER",
       "date": "2026.07.05 09:27"
     },
     {
       "title": "この季節",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104700?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104700?ima=1026&cd=MEMBER",
       "date": "2026.07.04 16:27"
     },
     {
       "title": "乃木坂46が北海道に来たよ〜〜！！ 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104699?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104699?ima=1026&cd=MEMBER",
       "date": "2026.07.04 14:03"
     },
     {
       "title": "愛情ぺろり",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104698?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104698?ima=1026&cd=MEMBER",
       "date": "2026.07.03 18:45"
     },
     {
       "title": "梅雨時ではありますが…",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104697?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104697?ima=1026&cd=MEMBER",
       "date": "2026.07.02 19:30"
     },
     {
       "title": "終わらないで、永遠に",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104696?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104696?ima=1026&cd=MEMBER",
       "date": "2026.07.02 19:12"
     },
     {
       "title": "公演を重ねて",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104694?ima=0430&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104694?ima=1026&cd=MEMBER",
       "date": "2026.07.02 15:16"
     }
   ],
-  "updated_at": "2026-07-08 15:04",
+  "updated_at": "2026-07-08 20:10",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
