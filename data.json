@@ -125,57 +125,57 @@
   ],
   "nogi_blog": [
     {
+      "title": "僕の感情爆発しそうだ",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104733?ima=3955&cd=MEMBER",
+      "date": "2026.07.19 19:27"
+    },
+    {
+      "title": "一緒に観に行きませんか",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104732?ima=3955&cd=MEMBER",
+      "date": "2026.07.19 19:21"
+    },
+    {
+      "title": "フォルテシモ",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104731?ima=3955&cd=MEMBER",
+      "date": "2026.07.19 15:08"
+    },
+    {
       "title": "君の名を叫んだ！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104730?ima=0553&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104730?ima=3955&cd=MEMBER",
       "date": "2026.07.19 11:57"
     },
     {
       "title": "たこ焼きガール #りおたんの満開ブログ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104728?ima=0553&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104728?ima=3955&cd=MEMBER",
       "date": "2026.07.18 22:10"
     },
     {
       "title": "愛を分け合って",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104729?ima=0553&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104729?ima=3955&cd=MEMBER",
       "date": "2026.07.18 21:21"
     },
     {
       "title": "夏日和",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104727?ima=0553&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104727?ima=3955&cd=MEMBER",
       "date": "2026.07.18 15:30"
     },
     {
       "title": "あなたの心に邪魔すんで〜",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104726?ima=0553&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104726?ima=3955&cd=MEMBER",
       "date": "2026.07.17 20:18"
     },
     {
       "title": "あタコです。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104724?ima=0553&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104724?ima=3955&cd=MEMBER",
       "date": "2026.07.17 13:32"
     },
     {
       "title": "強いILoveYouになる！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104723?ima=0553&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104723?ima=3955&cd=MEMBER",
       "date": "2026.07.16 22:17"
-    },
-    {
-      "title": "Day2大阪公演！ 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104721?ima=0553&cd=MEMBER",
-      "date": "2026.07.16 11:24"
-    },
-    {
-      "title": "成人式",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104719?ima=0553&cd=MEMBER",
-      "date": "2026.07.14 22:09"
-    },
-    {
-      "title": "あなごを食わずんば小津玲奈にあらず",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104718?ima=0553&cd=MEMBER",
-      "date": "2026.07.14 20:09"
     }
   ],
-  "updated_at": "2026-07-19 15:05",
+  "updated_at": "2026-07-19 19:39",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
