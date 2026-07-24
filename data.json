@@ -125,57 +125,57 @@
   ],
   "nogi_blog": [
     {
+      "title": "長嶋凛桜は可愛い。",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104750?ima=0716&cd=MEMBER",
+      "date": "2026.07.24 18:48"
+    },
+    {
+      "title": "未明",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104749?ima=0716&cd=MEMBER",
+      "date": "2026.07.24 18:00"
+    },
+    {
       "title": "色づいていく日々",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104745?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104745?ima=0716&cd=MEMBER",
       "date": "2026.07.23 19:15"
     },
     {
       "title": "君の瞳に映る世界を。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104744?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104744?ima=0716&cd=MEMBER",
       "date": "2026.07.23 17:53"
     },
     {
       "title": "「是非に及ばず」発売日🔥",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104743?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104743?ima=0716&cd=MEMBER",
       "date": "2026.07.22 21:23"
     },
     {
       "title": "夏は君に似ている",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104742?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104742?ima=0716&cd=MEMBER",
       "date": "2026.07.22 21:00"
     },
     {
       "title": "是非に及ばず",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104741?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104741?ima=0716&cd=MEMBER",
       "date": "2026.07.22 20:58"
     },
     {
       "title": "私にもロックンロールがやってきた",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104740?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104740?ima=0716&cd=MEMBER",
       "date": "2026.07.22 19:04"
     },
     {
       "title": "雷雲灰色",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104739?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104739?ima=0716&cd=MEMBER",
       "date": "2026.07.22 13:57"
     },
     {
       "title": "海の日だね",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104738?ima=5512&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104738?ima=0716&cd=MEMBER",
       "date": "2026.07.21 20:42"
-    },
-    {
-      "title": "誰かに証明してもらえなくても。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104737?ima=5512&cd=MEMBER",
-      "date": "2026.07.21 19:54"
-    },
-    {
-      "title": "胸に募る想い",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104736?ima=5512&cd=MEMBER",
-      "date": "2026.07.21 19:52"
     }
   ],
-  "updated_at": "2026-07-24 14:55",
+  "updated_at": "2026-07-24 20:07",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
