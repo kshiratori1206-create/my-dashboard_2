@@ -98,84 +98,84 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（829,003記事）",
+      "title": "#AI（831,188記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（444,025記事）",
+      "title": "#生成AI（445,895記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（457,805記事）",
+      "title": "#ChatGPT（459,008記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（18,340記事）",
+      "title": "#プロジェクトマネジメント（18,381記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
       "date": ""
     },
     {
-      "title": "#仕事（1,039,514記事）",
+      "title": "#仕事（1,040,907記事）",
       "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "少しだけ、色気",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104757?ima=0842&cd=MEMBER",
+      "date": "2026.08.02 14:41"
+    },
+    {
       "title": "ナイショ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104756?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104756?ima=0842&cd=MEMBER",
       "date": "2026.08.01 19:58"
     },
     {
       "title": "いつもありがとう",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104755?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104755?ima=0842&cd=MEMBER",
       "date": "2026.07.31 19:29"
     },
     {
       "title": "空はつながっているよ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104754?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104754?ima=0842&cd=MEMBER",
       "date": "2026.07.31 17:51"
     },
     {
       "title": "この夏も皆んなと。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104753?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104753?ima=0842&cd=MEMBER",
       "date": "2026.07.27 22:47"
     },
     {
       "title": "川端晃菜はめんこい #りおたんの満開ブログ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104752?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104752?ima=0842&cd=MEMBER",
       "date": "2026.07.27 16:53"
     },
     {
       "title": "ー夏🍉ー 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104751?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104751?ima=0842&cd=MEMBER",
       "date": "2026.07.26 10:17"
     },
     {
       "title": "長嶋凛桜は可愛い。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104750?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104750?ima=0842&cd=MEMBER",
       "date": "2026.07.24 18:48"
     },
     {
       "title": "未明",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104749?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104749?ima=0842&cd=MEMBER",
       "date": "2026.07.24 18:00"
     },
     {
       "title": "色づいていく日々",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104745?ima=0157&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104745?ima=0842&cd=MEMBER",
       "date": "2026.07.23 19:15"
-    },
-    {
-      "title": "君の瞳に映る世界を。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104744?ima=0157&cd=MEMBER",
-      "date": "2026.07.23 17:53"
     }
   ],
-  "updated_at": "2026-08-02 08:01",
+  "updated_at": "2026-08-02 15:08",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
