@@ -98,84 +98,84 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（863,033記事）",
+      "title": "#AI（864,999記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（473,103記事）",
+      "title": "#生成AI（475,245記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（477,423記事）",
+      "title": "#ChatGPT（478,871記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（18,882記事）",
+      "title": "#プロジェクトマネジメント（18,921記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
       "date": ""
     },
     {
-      "title": "#仕事（1,064,478記事）",
+      "title": "#仕事（1,066,458記事）",
       "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "優しさ",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104777?ima=5020&cd=MEMBER",
+      "date": "2026.08.18 11:52"
+    },
+    {
       "title": "神様はキミの味方！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104776?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104776?ima=5020&cd=MEMBER",
       "date": "2026.08.17 21:10"
     },
     {
       "title": "愛は与えるものと君を見てて思った",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104775?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104775?ima=5020&cd=MEMBER",
       "date": "2026.08.17 12:48"
     },
     {
       "title": "お腹いっぱいになりたい",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104774?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104774?ima=5020&cd=MEMBER",
       "date": "2026.08.16 21:15"
     },
     {
       "title": "楽しみにしててください🍁 #めおと日和",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104773?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104773?ima=5020&cd=MEMBER",
       "date": "2026.08.16 21:13"
     },
     {
       "title": "愛",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104772?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104772?ima=5020&cd=MEMBER",
       "date": "2026.08.14 21:33"
     },
     {
       "title": "8月生まれの皆さんおめでとうございます #岡本姫奈 #hinadaniblog",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104771?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104771?ima=5020&cd=MEMBER",
       "date": "2026.08.14 19:42"
     },
     {
       "title": "傘をさせる人になれるように",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104770?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104770?ima=5020&cd=MEMBER",
       "date": "2026.08.14 18:04"
     },
     {
       "title": "正解はわからないたった一度の人生だ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104769?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104769?ima=5020&cd=MEMBER",
       "date": "2026.08.11 20:29"
     },
     {
       "title": "令和8年8月8日、8回目！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104768?ima=3135&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104768?ima=5020&cd=MEMBER",
       "date": "2026.08.09 15:06"
-    },
-    {
-      "title": "おずんだ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104767?ima=3135&cd=MEMBER",
-      "date": "2026.08.08 15:26"
     }
   ],
-  "updated_at": "2026-08-18 07:31",
+  "updated_at": "2026-08-18 12:50",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
