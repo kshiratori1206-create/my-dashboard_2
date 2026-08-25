@@ -125,57 +125,57 @@
   ],
   "nogi_blog": [
     {
+      "title": "忘れない、この夏",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104793?ima=3350&cd=MEMBER",
+      "date": "2026.08.25 22:02"
+    },
+    {
+      "title": "夏の終わりのハーモニー",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104792?ima=3350&cd=MEMBER",
+      "date": "2026.08.25 21:02"
+    },
+    {
+      "title": "夢中で駆け抜けた日々",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104791?ima=3350&cd=MEMBER",
+      "date": "2026.08.25 20:47"
+    },
+    {
       "title": "ただいまって",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104790?ima=4249&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104790?ima=3350&cd=MEMBER",
       "date": "2026.08.25 15:05"
     },
     {
       "title": "向日葵 五百城茉央",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104789?ima=4249&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104789?ima=3350&cd=MEMBER",
       "date": "2026.08.25 13:00"
     },
     {
       "title": "最高の夏だった",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104788?ima=4249&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104788?ima=3350&cd=MEMBER",
       "date": "2026.08.24 20:30"
     },
     {
       "title": "ありがとう！真夏の全国ツアー18公演",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104787?ima=4249&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104787?ima=3350&cd=MEMBER",
       "date": "2026.08.24 16:57"
     },
     {
       "title": "好きの気持ちをどう伝えよう",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104786?ima=4249&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104786?ima=3350&cd=MEMBER",
       "date": "2026.08.23 16:12"
     },
     {
       "title": "ん〜〜神宮最高✨✨ 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104785?ima=4249&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104785?ima=3350&cd=MEMBER",
       "date": "2026.08.23 10:49"
     },
     {
       "title": "幸せの座標",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104784?ima=4249&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104784?ima=3350&cd=MEMBER",
       "date": "2026.08.21 17:54"
-    },
-    {
-      "title": "この夏を忘れない",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104783?ima=4249&cd=MEMBER",
-      "date": "2026.08.21 16:53"
-    },
-    {
-      "title": "神宮ー！！はじまるよー🏖☀️",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104781?ima=4249&cd=MEMBER",
-      "date": "2026.08.20 16:26"
-    },
-    {
-      "title": "まるで母親みたいに",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104780?ima=4249&cd=MEMBER",
-      "date": "2026.08.20 15:13"
     }
   ],
-  "updated_at": "2026-08-25 18:42",
+  "updated_at": "2026-08-26 07:34",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
