@@ -98,84 +98,84 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（908,043記事）",
+      "title": "#AI（910,466記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（513,001記事）",
+      "title": "#生成AI（515,220記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（505,617記事）",
+      "title": "#ChatGPT（507,386記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（19,661記事）",
+      "title": "#プロジェクトマネジメント（19,681記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
       "date": ""
     },
     {
-      "title": "#仕事（1,104,522記事）",
+      "title": "#仕事（1,106,352記事）",
       "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "夏のあとがき",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104819?ima=4912&cd=MEMBER",
+      "date": "2026.09.06 10:46"
+    },
+    {
+      "title": "東京パソコンクラブの新レギュラーメンバーになりました！",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104818?ima=4912&cd=MEMBER",
+      "date": "2026.09.06 10:36"
+    },
+    {
       "title": "11年目",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104817?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104817?ima=4912&cd=MEMBER",
       "date": "2026.09.05 20:54"
     },
     {
       "title": "他の星から",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104816?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104816?ima=4912&cd=MEMBER",
       "date": "2026.09.05 17:36"
     },
     {
       "title": "秋の始まり",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104815?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104815?ima=4912&cd=MEMBER",
       "date": "2026.09.05 15:26"
     },
     {
       "title": "10",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104814?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104814?ima=4912&cd=MEMBER",
       "date": "2026.09.04 19:02"
     },
     {
       "title": "わ〜恐ろしい、恐竜お姉さんですよ〜",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104813?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104813?ima=4912&cd=MEMBER",
       "date": "2026.09.03 22:19"
     },
     {
       "title": "余熱",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104812?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104812?ima=4912&cd=MEMBER",
       "date": "2026.09.02 19:37"
     },
     {
       "title": "8月32日",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104811?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104811?ima=4912&cd=MEMBER",
       "date": "2026.09.01 20:29"
     },
     {
       "title": "乃木坂三昧",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104810?ima=4428&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104810?ima=4912&cd=MEMBER",
       "date": "2026.09.01 20:28"
-    },
-    {
-      "title": "9月生まれの皆さん おめでとうございます #岡本姫奈 #hinadaniblog",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104809?ima=4428&cd=MEMBER",
-      "date": "2026.09.01 19:38"
-    },
-    {
-      "title": "夏を抱えて",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104808?ima=4428&cd=MEMBER",
-      "date": "2026.08.31 20:25"
     }
   ],
-  "updated_at": "2026-09-06 08:44",
+  "updated_at": "2026-09-06 16:49",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
