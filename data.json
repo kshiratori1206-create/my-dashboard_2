@@ -65,7 +65,7 @@
   ],
   "note_stats": [
     {
-      "title": "📊 公開15記事 / 総スキ 63 / 総コメント 1",
+      "title": "📊 公開15記事 / 総スキ 64 / 総コメント 1",
       "link": "https://note.com/sitesettings/stats",
       "date": ""
     },
@@ -75,14 +75,14 @@
       "date": "2026-06-20"
     },
     {
+      "title": "♥7 … 板挟みで働く人の「言えない本音」12選｜心の声を翻訳してみました",
+      "link": "https://note.com/tasty_nerine3657/n/n010757b01f00",
+      "date": "2026-07-08"
+    },
+    {
       "title": "♥7 … 今日から変わる｜AI動画プロンプトの\"言語化\"完全攻略ガイド【事例集付き】",
       "link": "https://note.com/tasty_nerine3657/n/n45e8bdd996db",
       "date": "2026-05-29"
-    },
-    {
-      "title": "♥6 … 板挟みで働く人の「言えない本音」12選｜心の声を翻訳してみました",
-      "link": "https://note.com/tasty_nerine3657/n/n010757b01f00",
-      "date": "2026-07-08"
     },
     {
       "title": "♥5 … 時間ばかりが過ぎていくー課題・タスクを進めるための交通整理ー",
@@ -125,57 +125,57 @@
   ],
   "nogi_blog": [
     {
+      "title": "羽が生えたみたい",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104847?ima=0205&cd=MEMBER",
+      "date": "2026.09.19 20:48"
+    },
+    {
       "title": "きらきらの秋",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104846?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104846?ima=0205&cd=MEMBER",
       "date": "2026.09.19 16:44"
     },
     {
       "title": "20歳！わーい✨️",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104843?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104843?ima=0205&cd=MEMBER",
       "date": "2026.09.18 16:40"
     },
     {
       "title": "食欲の秋がやってきた！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104844?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104844?ima=0205&cd=MEMBER",
       "date": "2026.09.18 14:04"
     },
     {
       "title": "僕は扉に手を掛けているよ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104842?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104842?ima=0205&cd=MEMBER",
       "date": "2026.09.17 21:44"
     },
     {
       "title": "魔法少女モエモエカ☆。.:＊・゜",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104841?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104841?ima=0205&cd=MEMBER",
       "date": "2026.09.17 21:25"
     },
     {
       "title": "胸の奥を",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104840?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104840?ima=0205&cd=MEMBER",
       "date": "2026.09.17 21:14"
     },
     {
       "title": "21歳",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104839?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104839?ima=0205&cd=MEMBER",
       "date": "2026.09.17 20:31"
     },
     {
       "title": "ニャンとも幸せな日",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104838?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104838?ima=0205&cd=MEMBER",
       "date": "2026.09.14 20:48"
     },
     {
       "title": "青春亡霊長嶋凛桜",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104837?ima=0012&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104837?ima=0205&cd=MEMBER",
       "date": "2026.09.14 20:21"
-    },
-    {
-      "title": "牛タンと揚げもみじ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104836?ima=0012&cd=MEMBER",
-      "date": "2026.09.13 21:23"
     }
   ],
-  "updated_at": "2026-09-19 17:00",
+  "updated_at": "2026-09-19 22:02",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
