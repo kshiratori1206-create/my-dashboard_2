@@ -98,84 +98,84 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（986,513記事）",
+      "title": "#AI（988,982記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（586,413記事）",
+      "title": "#生成AI（588,212記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（559,552記事）",
+      "title": "#ChatGPT（561,009記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（20,878記事）",
+      "title": "#プロジェクトマネジメント（20,926記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
       "date": ""
     },
     {
-      "title": "#仕事（1,171,190記事）",
+      "title": "#仕事（1,173,266記事）",
       "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "甘い #Nogizaka Colors",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104881?ima=2205&cd=MEMBER",
+      "date": "2026.10.06 22:03"
+    },
+    {
       "title": "18さい、この指とまれ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104880?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104880?ima=2205&cd=MEMBER",
       "date": "2026.10.05 20:59"
     },
     {
       "title": "眼鏡きぶん",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104879?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104879?ima=2205&cd=MEMBER",
       "date": "2026.10.05 19:56"
     },
     {
       "title": "乃木坂46の「の」",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104878?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104878?ima=2205&cd=MEMBER",
       "date": "2026.10.04 16:47"
     },
     {
       "title": "愛:あい",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104877?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104877?ima=2205&cd=MEMBER",
       "date": "2026.10.03 21:26"
     },
     {
       "title": "10月生まれの皆さんおめでとうございます #hinadaniblog #岡本姫奈",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104876?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104876?ima=2205&cd=MEMBER",
       "date": "2026.10.03 20:54"
     },
     {
       "title": "これからもフォルテシモなわたしで",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104875?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104875?ima=2205&cd=MEMBER",
       "date": "2026.10.03 19:00"
     },
     {
       "title": "やっと会えるね",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104874?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104874?ima=2205&cd=MEMBER",
       "date": "2026.10.03 18:44"
     },
     {
       "title": "欲張りな自分",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104873?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104873?ima=2205&cd=MEMBER",
       "date": "2026.10.03 18:03"
     },
     {
       "title": "乃木坂46の歴史！ありがとうございました",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104872?ima=0305&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104872?ima=2205&cd=MEMBER",
       "date": "2026.10.02 22:01"
-    },
-    {
-      "title": "NO.6 －再会－",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104871?ima=0305&cd=MEMBER",
-      "date": "2026.10.02 20:42"
     }
   ],
-  "updated_at": "2026-10-06 19:03",
+  "updated_at": "2026-10-07 10:22",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
