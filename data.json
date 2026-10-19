@@ -98,84 +98,84 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（1,014,997記事）",
+      "title": "#AI（1,017,275記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（613,390記事）",
+      "title": "#生成AI（615,907記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（578,607記事）",
+      "title": "#ChatGPT（580,335記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（21,404記事）",
+      "title": "#プロジェクトマネジメント（21,444記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
       "date": ""
     },
     {
-      "title": "#仕事（1,193,541記事）",
+      "title": "#仕事（1,195,120記事）",
       "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "おとぎ話を信じて 川﨑桜",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104930?ima=4253&cd=MEMBER",
+      "date": "2026.10.19 17:41"
+    },
+    {
+      "title": "秋が来た",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104928?ima=4253&cd=MEMBER",
+      "date": "2026.10.19 15:06"
+    },
+    {
+      "title": "どこにいても 君の事ばかり",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104927?ima=4253&cd=MEMBER",
+      "date": "2026.10.19 13:11"
+    },
+    {
+      "title": "今週も頑張ろうね",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104926?ima=4253&cd=MEMBER",
+      "date": "2026.10.19 10:56"
+    },
+    {
       "title": "足元を見る",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104918?ima=0506&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104918?ima=4253&cd=MEMBER",
       "date": "2026.10.19 00:55"
     },
     {
       "title": "43枚目シングル 「君ロス」 #hinadaniblog #岡本姫奈",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104916?ima=0506&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104916?ima=4253&cd=MEMBER",
       "date": "2026.10.19 00:55"
     },
     {
       "title": "「金川紗耶」",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104915?ima=0506&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104915?ima=4253&cd=MEMBER",
       "date": "2026.10.19 00:55"
     },
     {
       "title": "愛惜",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104917?ima=0506&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104917?ima=4253&cd=MEMBER",
       "date": "2026.10.19 00:46"
     },
     {
       "title": "たぶんこれから秋",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104914?ima=0506&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104914?ima=4253&cd=MEMBER",
       "date": "2026.10.18 20:29"
     },
     {
       "title": "秋を満喫したい",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104913?ima=0506&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104913?ima=4253&cd=MEMBER",
       "date": "2026.10.17 20:58"
-    },
-    {
-      "title": "好きだったこの場所",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104912?ima=0506&cd=MEMBER",
-      "date": "2026.10.17 18:00"
-    },
-    {
-      "title": "ふらっと書いてみた",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104911?ima=0506&cd=MEMBER",
-      "date": "2026.10.17 15:56"
-    },
-    {
-      "title": "💐秘密の花園🌼",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104910?ima=0506&cd=MEMBER",
-      "date": "2026.10.17 11:46"
-    },
-    {
-      "title": "おはぎをあなたとほおばりたい",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104907?ima=0506&cd=MEMBER",
-      "date": "2026.10.15 20:37"
     }
   ],
-  "updated_at": "2026-10-19 09:05",
+  "updated_at": "2026-10-19 17:42",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
