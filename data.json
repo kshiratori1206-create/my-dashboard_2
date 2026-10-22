@@ -124,7 +124,7 @@
     }
   ],
   "nogi_blog": [],
-  "updated_at": "2026-10-21 23:26",
+  "updated_at": "2026-10-22 09:34",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0",
     "nogi_blog": "502 Server Error: Bad Gateway for url: https://www.nogizaka46.com/s/n46/diary/MEMBER/list"
