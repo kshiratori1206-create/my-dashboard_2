@@ -98,84 +98,79 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（904,254記事）",
+      "title": "#AI（906,007記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（526,538記事）",
+      "title": "#生成AI（528,569記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（516,579記事）",
+      "title": "#ChatGPT（517,883記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（19,910記事）",
+      "title": "#プロジェクトマネジメント（19,938記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
-      "date": ""
-    },
-    {
-      "title": "#仕事（1,148,534記事）",
-      "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "記憶を信じること",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104945?ima=4546&cd=MEMBER",
+      "date": "2026.10.26 17:23"
+    },
+    {
       "title": "アップトゥボーイ連載",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104944?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104944?ima=4546&cd=MEMBER",
       "date": "2026.10.25 22:10"
     },
     {
       "title": "いよいよ始まるよ！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104943?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104943?ima=4546&cd=MEMBER",
       "date": "2026.10.25 21:53"
     },
     {
       "title": "海を照らす太陽は希望に見える",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104942?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104942?ima=4546&cd=MEMBER",
       "date": "2026.10.25 21:52"
     },
     {
       "title": "フォーマルハウト",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104941?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104941?ima=4546&cd=MEMBER",
       "date": "2026.10.24 21:29"
     },
     {
       "title": "終わってしまうなら",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104940?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104940?ima=4546&cd=MEMBER",
       "date": "2026.10.23 21:10"
     },
     {
       "title": "自分が嫌になる、",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104939?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104939?ima=4546&cd=MEMBER",
       "date": "2026.10.23 18:33"
     },
     {
       "title": "考えることをやめないで。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104938?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104938?ima=4546&cd=MEMBER",
       "date": "2026.10.21 17:28"
     },
     {
       "title": "早起きは苦手なので冬はつとめてとは言えません",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104937?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104937?ima=4546&cd=MEMBER",
       "date": "2026.10.21 17:17"
     },
     {
       "title": "当たっていないスポットライト",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104936?ima=0341&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104936?ima=4546&cd=MEMBER",
       "date": "2026.10.21 17:06"
-    },
-    {
-      "title": "自分のすきもきらいも",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104935?ima=0341&cd=MEMBER",
-      "date": "2026.10.21 16:25"
     }
   ],
-  "updated_at": "2026-10-26 09:03",
+  "updated_at": "2026-10-26 17:45",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
