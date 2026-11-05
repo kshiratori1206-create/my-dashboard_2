@@ -124,7 +124,7 @@
     }
   ],
   "nogi_blog": [],
-  "updated_at": "2026-11-05 11:10",
+  "updated_at": "2026-11-05 19:40",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
