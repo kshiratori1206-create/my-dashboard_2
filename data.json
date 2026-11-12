@@ -98,84 +98,84 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（935,254記事）",
+      "title": "#AI（935,167記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（561,543記事）",
+      "title": "#生成AI（561,586記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（540,729記事）",
+      "title": "#ChatGPT（540,723記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（20,560記事）",
+      "title": "#プロジェクトマネジメント（20,565記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
       "date": ""
     },
     {
-      "title": "#仕事（1,172,364記事）",
+      "title": "#仕事（1,172,232記事）",
       "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "乃木坂スター誕生SIX！LIVE 開催決定",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104995?ima=4725&cd=MEMBER",
+      "date": "2026.11.11 21:12"
+    },
+    {
+      "title": "君ロス",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104994?ima=4725&cd=MEMBER",
+      "date": "2026.11.11 20:50"
+    },
+    {
       "title": "お花に囲まれて",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104993?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104993?ima=4725&cd=MEMBER",
       "date": "2026.11.11 18:47"
     },
     {
       "title": "雨が降りました",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104992?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104992?ima=4725&cd=MEMBER",
       "date": "2026.11.11 18:32"
     },
     {
       "title": "惜生",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104991?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104991?ima=4725&cd=MEMBER",
       "date": "2026.11.11 00:05"
     },
     {
       "title": "冬のはじまり #岡本姫奈 #hinadaniblog #🍊",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104990?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104990?ima=4725&cd=MEMBER",
       "date": "2026.11.10 19:32"
     },
     {
       "title": "5年分の宝物",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104989?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104989?ima=4725&cd=MEMBER",
       "date": "2026.11.09 20:25"
     },
     {
       "title": "寒いからくっついてもいい？",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104988?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104988?ima=4725&cd=MEMBER",
       "date": "2026.11.09 18:30"
     },
     {
       "title": "別班になりたいジャン！！！",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104987?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104987?ima=4725&cd=MEMBER",
       "date": "2026.11.08 20:46"
     },
     {
       "title": "もこもこ",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104986?ima=3946&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104986?ima=4725&cd=MEMBER",
       "date": "2026.11.08 18:06"
-    },
-    {
-      "title": "別班になり隊",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104985?ima=3946&cd=MEMBER",
-      "date": "2026.11.08 18:04"
-    },
-    {
-      "title": "別班になりたい #hinadaniblog #岡本姫奈 #VIVANT",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104984?ima=3946&cd=MEMBER",
-      "date": "2026.11.08 12:36"
     }
   ],
-  "updated_at": "2026-11-11 19:39",
+  "updated_at": "2026-11-12 11:48",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
