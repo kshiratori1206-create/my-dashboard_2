@@ -125,57 +125,57 @@
   ],
   "nogi_blog": [
     {
+      "title": "繋いでいくもの",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105004?ima=4726&cd=MEMBER",
+      "date": "2026.11.13 19:40"
+    },
+    {
+      "title": "進む。",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105002?ima=4726&cd=MEMBER",
+      "date": "2026.11.13 17:43"
+    },
+    {
+      "title": "繋ぐ #紅白歌合戦 #hinadaniblog #岡本姫奈",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105001?ima=4726&cd=MEMBER",
+      "date": "2026.11.13 16:34"
+    },
+    {
+      "title": "振り返りたくなる、冬",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105000?ima=4726&cd=MEMBER",
+      "date": "2026.11.13 16:08"
+    },
+    {
       "title": "あたたかくしてね🍵",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104999?ima=3033&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104999?ima=4726&cd=MEMBER",
       "date": "2026.11.12 21:35"
     },
     {
       "title": "君ロスだよ。 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104998?ima=3033&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104998?ima=4726&cd=MEMBER",
       "date": "2026.11.12 21:06"
     },
     {
       "title": "寂しさとは当たり前のようにそこにいたはずの誰かの影",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104996?ima=3033&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104996?ima=4726&cd=MEMBER",
       "date": "2026.11.12 12:24"
     },
     {
       "title": "乃木坂スター誕生SIX！LIVE 開催決定",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104995?ima=3033&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104995?ima=4726&cd=MEMBER",
       "date": "2026.11.11 21:12"
     },
     {
       "title": "君ロス",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104994?ima=3033&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104994?ima=4726&cd=MEMBER",
       "date": "2026.11.11 20:50"
     },
     {
       "title": "お花に囲まれて",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104993?ima=3033&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104993?ima=4726&cd=MEMBER",
       "date": "2026.11.11 18:47"
-    },
-    {
-      "title": "雨が降りました",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104992?ima=3033&cd=MEMBER",
-      "date": "2026.11.11 18:32"
-    },
-    {
-      "title": "惜生",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104991?ima=3033&cd=MEMBER",
-      "date": "2026.11.11 00:05"
-    },
-    {
-      "title": "冬のはじまり #岡本姫奈 #hinadaniblog #🍊",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104990?ima=3033&cd=MEMBER",
-      "date": "2026.11.10 19:32"
-    },
-    {
-      "title": "5年分の宝物",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/104989?ima=3033&cd=MEMBER",
-      "date": "2026.11.09 20:25"
     }
   ],
-  "updated_at": "2026-11-13 11:30",
+  "updated_at": "2026-11-13 19:47",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
