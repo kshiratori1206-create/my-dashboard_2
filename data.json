@@ -98,84 +98,84 @@
   "note_featured": [],
   "note_hashtags": [
     {
-      "title": "#AI（942,759記事）",
+      "title": "#AI（945,104記事）",
       "link": "https://note.com/hashtags/AI",
       "date": ""
     },
     {
-      "title": "#生成AI（570,997記事）",
+      "title": "#生成AI（573,389記事）",
       "link": "https://note.com/hashtags/生成AI",
       "date": ""
     },
     {
-      "title": "#ChatGPT（546,886記事）",
+      "title": "#ChatGPT（548,501記事）",
       "link": "https://note.com/hashtags/ChatGPT",
       "date": ""
     },
     {
-      "title": "#プロジェクトマネジメント（20,693記事）",
+      "title": "#プロジェクトマネジメント（20,735記事）",
       "link": "https://note.com/hashtags/プロジェクトマネジメント",
       "date": ""
     },
     {
-      "title": "#仕事（1,177,971記事）",
+      "title": "#仕事（1,179,456記事）",
       "link": "https://note.com/hashtags/仕事",
       "date": ""
     }
   ],
   "nogi_blog": [
     {
+      "title": "【衝撃】家に卓球台買ってみた🏓",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105013?ima=4726&cd=MEMBER",
+      "date": "2026.11.15 20:30"
+    },
+    {
       "title": "きっとすべての数字に物語があるから。",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105012?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105012?ima=4726&cd=MEMBER",
       "date": "2026.11.14 20:06"
     },
     {
       "title": "ようけおあがり〜",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105011?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105011?ima=4726&cd=MEMBER",
       "date": "2026.11.14 17:39"
     },
     {
       "title": "心の中",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105010?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105010?ima=4726&cd=MEMBER",
       "date": "2026.11.14 16:56"
     },
     {
       "title": "大切な場所 川﨑桜",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105009?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105009?ima=4726&cd=MEMBER",
       "date": "2026.11.13 22:34"
     },
     {
       "title": "感慕",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105008?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105008?ima=4726&cd=MEMBER",
       "date": "2026.11.13 20:45"
     },
     {
       "title": "最後も一緒",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105007?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105007?ima=4726&cd=MEMBER",
       "date": "2026.11.13 20:41"
     },
     {
       "title": "離さないで",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105006?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105006?ima=4726&cd=MEMBER",
       "date": "2026.11.13 20:40"
     },
     {
       "title": "祝福と葛藤と決意",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105005?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105005?ima=4726&cd=MEMBER",
       "date": "2026.11.13 20:06"
     },
     {
       "title": "繋ぐ夢 金川紗耶",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105003?ima=3745&cd=MEMBER",
+      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105003?ima=4726&cd=MEMBER",
       "date": "2026.11.13 20:04"
-    },
-    {
-      "title": "繋いでいくもの",
-      "link": "https://www.nogizaka46.com/s/n46/diary/detail/105004?ima=3745&cd=MEMBER",
-      "date": "2026.11.13 19:40"
     }
   ],
-  "updated_at": "2026-11-15 19:38",
+  "updated_at": "2026-11-16 10:47",
   "_errors": {
     "note_featured": "403 Client Error: Forbidden for url: https://note.com/api/v3/searches?context=note&q=AI&size=5&start=0"
   }
